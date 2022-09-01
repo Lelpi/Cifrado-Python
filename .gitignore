@@ -1,0 +1,9 @@
+venv
+.idea
+*.txt
+!requirements.txt
+__pycache__
+*.key
+encrypted_files
+signed_files
+downloaded_files
